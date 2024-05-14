@@ -1,0 +1,9 @@
+dbsqlite3
+./RhythmReserve/events_app/__pycache__
+./RhythmReserve/main/__pycache__
+./RhythmReserve/RhythmReserve/__pycache__
+./RhythmReserve/user_actions/__pycache__
+./RhythmReserve/user_auth/__pycache__
+./RhythmReserve/venue_auth/__pycache__
+./.DS_Store
+./RhythmReserve/.DS_Store
